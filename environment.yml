@@ -1,4 +1,4 @@
-name: DLfsP2
+name: DLfsP
 channels:
   - anaconda
   - conda-forge
